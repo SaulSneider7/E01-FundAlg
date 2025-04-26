@@ -23,4 +23,4 @@ Desarrollar un proyecto que combine teoría y práctica de IA, Machine Learning 
 - 25/04/2025 - Elaboracion del Informe (Formato del alumno)
 - 28/04/2025 - Elaboracion del codigo
 - 29/04/2025 - Elaboracion del PPT
-- 01/04/2025 - Subir el informe (formato PDF) y el script (enlace de Github) / Exposiciones
+- 30/04/2025 - Subir el informe (formato PDF) y el script (enlace de Github) / Exposiciones
