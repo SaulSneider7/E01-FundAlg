@@ -17,6 +17,7 @@ Desarrollar un proyecto que combine teoría y práctica de IA, Machine Learning 
 - Genere matrices
 - Realice las propiedades aritmeticas (conmutativa, asociativa, distributiva, inverso, identidad)
 - Las funciones deben incluir mecanismos de validación que garanticen la integridad de los datos de entrada. Por ejempolo, se debe verificar que no existan valores nulos o vacíos, que todos los argumentos requeridos sean proporcionados, etc.
+*La ejecucion de las funciones de las propiedades aritmeticas sera con vectores*
 
 
 ## Cronograma
